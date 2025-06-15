@@ -6,38 +6,38 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 김재우
+title: 프론트엔드 개발자
+email: rlawodn102@naver.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+# twitter_username: jekyllrb
+github_username:  rlawodn102
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: crazy_j.w
+# linkedin_username: jekyll
+# xing_username: jekyll
+pinterest_username: rlawodn102
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,16 +49,11 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: Introduce
+about_profile_image: images/profile_photo_jaewoo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  2년차 주니어 개발자로, 전자정부프레임워크 유지보수/개발 경험이 있습니다.
+  
 
 content:
   - title: Projects # Title for the section
@@ -81,18 +76,33 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Skill
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: Languages
+        # sub_title: Job title
+        # caption: Date Range (eg. November 2016 - present)
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          JSP, JS(ES6), Java
+        # title: 
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: Languages
+        description: | # this will include new lines to allow paragraphs
+          JSP, JS(ES6), Java
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: Languages
+        description: | # this will include new lines to allow paragraphs
+          JSP, JS(ES6), Java
   - title: Education
     layout: list
     content:

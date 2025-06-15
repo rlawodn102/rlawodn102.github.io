@@ -88,21 +88,22 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           JSP, JS(ES6), Java
-        # title: 
-  - title: Skill
+        title: Frameworks
+          # & Libraries
+  - title: Experience
     layout: list
     content:
       - layout: left
         title: Languages
         description: | # this will include new lines to allow paragraphs
-          JSP, JS(ES6), Java
-  - title: Skill
+          
+  - title: Project
     layout: list
     content:
       - layout: left
         title: Languages
         description: | # this will include new lines to allow paragraphs
-          JSP, JS(ES6), Java
+          
   - title: Education
     layout: list
     content:

@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 김재우
-title: 프론트엔드 개발자
+title: 주니어 웹 개발자
 email: rlawodn102@naver.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -92,14 +92,34 @@ content:
       - layout: left
         border: weak
         title: Frameworks
-          # & Libraries
+          & Libraries
+        description: |
+          Spring, Spring Boot, JQuery
+      - layout: left
+        border: weak
+        title: Server
+        description: |
+          Apache, Tomcat
+      - layout: left
+        border: weak
+        title: Tooling
+          & DevOps
+        description: |
+          VS Code, Intellij, Git, Github,
+          Maven, Gradle, Trello
+      - layout: left
+        title: DB
+        description: |
+          MySQL, Oracle, MyBatis
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: Languages
+        title: 비전인사이드
+        link: http://www.visioninside.co.kr/
+        link_text: http://www.visioninside.co.kr/
         description: | # this will include new lines to allow paragraphs
-          
+        working_period: 2021. 02 ~ 2023. 02
   - title: Project
     layout: list
     content:

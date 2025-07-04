@@ -142,14 +142,14 @@ content:
       - layout: left
         border: weak
         title: 2022.09 ~ 2023.02
-        title_description: 홍릉강소특구
+        title_description: 홍릉강소특구 API 및 시각화 자료 개발
         description: |
           - 특구 입주 기업 회원 관리 시스템 개발 및 유지보수
           - <a href="https://www.inno.hongneung.re.kr/0560ec1bd849419a9a0130d51232e810#">기업별 차트 및 통계 시각화 개발</a>
       - layout: left
         border: weak
         title: 2022.02 ~ 2022.04
-        title_description: 디레드원 물류 플랫폼 서비스 개발팀
+        title_description: 디레드원 물류 플랫폼 서비스 개발
         description: |
           - 주문 관리 시스템(OMS) 개발
           - 정산, 운영 시스템 개발
@@ -157,13 +157,14 @@ content:
       - layout: left
         border: weak
         title: 2021.12 ~ 2022.05
-        title_description: 표준특허
+        title_description: 표준특허 평가 시스템 및 파일 개발
         description: |
           - 특허 V등급 평가 시스템 개발
           - 특허 첨부파일 docx 파일 업다운로드 개발
           - 특허관리 지표 확인용 xlsx 파일 업다운로드 개발
       - layout: left
-        title: 2021.09 ~ 2021.12, 2022.06 ~ 2022.08
+        title:
+          2021.09 ~ 2021.12, <br/>2022.06 ~ 2022.08
         title_description: 민간기술거래시스템 고도화 작업
         description: |
           - 클라이언트에게 제공되는 CRUD API 구현

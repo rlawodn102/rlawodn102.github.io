@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 김재우
 title: 주니어 웹 개발자
-email: rlawodn102@naver.com
+email: rlawodn102@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -145,7 +145,7 @@ content:
         title_description: 홍릉강소특구 API 및 시각화 자료 개발
         description: |
           - 특구 입주 기업 회원 관리 시스템 개발 및 유지보수
-          - <a href="https://www.inno.hongneung.re.kr/0560ec1bd849419a9a0130d51232e810#">기업별 차트 및 통계 시각화 개발</a>
+          - <a href="https://www.inno.hongneung.re.kr/0560ec1bd849419a9a0130d51232e810#" target="_blank">기업별 차트 및 통계 시각화 개발</a>
       - layout: left
         border: weak
         title: 2022.02 ~ 2022.04
